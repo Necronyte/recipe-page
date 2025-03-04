@@ -1,0 +1,173 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.duvar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: hsl(30, 54%, 90%);
+}
+
+.kart{
+    width: 500px;
+    height: auto;
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+}
+
+.foto{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.baslik{
+    margin-top: 15px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.kart .paragraf{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    margin-top: 15px;
+    font-size: 10px;
+    line-height: 1.6;
+    color: hsl(30, 10%, 34%);
+    text-align: left;
+}
+
+.morkart{
+    background-color: hsl(330, 100%, 98%);
+    width: 400px;
+    height: 120px;
+    border-radius: 10px;
+    text-align: left;
+    margin-top: 15px;
+    padding: 20px;
+}
+
+ .morkart .morbaslik{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: hsl(332, 51%, 32%);
+}
+
+.maddeler .nokta{
+    color: hsl(332, 51%, 32%);
+    margin-top: 5px;
+}
+
+.maddeler .yazi{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 12px;
+    font-style: normal;
+    color: hsl(30, 10%, 34%);
+}
+
+.baslik2{
+    margin-top: 15px;
+    text-align: left;
+    color: hsl(14, 45%, 36%);
+}
+
+.yazi2{
+    margin-top: 15px;
+    text-align: left;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 12px;
+    font-style: normal;
+    color: hsl(30, 10%, 34%);
+}
+
+.cizgi{
+    margin-top: 15px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #D3B3C2;
+}
+
+.baslik3{
+    text-align: left;
+    margin-top: 10px;
+    color: hsl(14, 45%, 36%);
+}
+
+.nokta2{
+    color: hsl(14, 45%, 36%);
+    margin-top: 5px;
+    text-align: left;
+}
+
+.yazi2{
+    margin-top: 15px;
+    text-align: left;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 12px;
+    font-style: normal;
+    color: hsl(30, 10%, 34%);
+}
+
+.maddeler2{
+    text-align: left;
+}
+
+.nokta3{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 10px;
+    color: hsl(14, 45%, 36%);
+    margin-top: 10px;
+    text-align: left;
+}
+
+.yazi3{
+    margin-top: 15px;
+    margin-left: 10px;
+    text-align: left;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 10px;
+    font-style: normal;
+    color: hsl(30, 10%, 34%);
+}
+
+ul {
+    list-style-type: decimal;
+}
+
+.yazi4{
+    margin-top: 15px;
+    margin-left: 10px;
+    text-align: left;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 10px;
+    font-style: normal;
+    color: hsl(30, 10%, 34%);
+}
+
+.deger{
+    margin-left: 175px;
+    color: hsl(14, 45%, 36%);
+}
