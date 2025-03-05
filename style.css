@@ -33,6 +33,10 @@
     margin-top: 15px;
     text-align: left;
     font-size: 20px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
 }
 
 .kart .paragraf{
@@ -83,6 +87,10 @@
     margin-top: 15px;
     text-align: left;
     color: hsl(14, 45%, 36%);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
 }
 
 .yazi2{
@@ -107,6 +115,10 @@
     text-align: left;
     margin-top: 10px;
     color: hsl(14, 45%, 36%);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
 }
 
 .nokta2{
