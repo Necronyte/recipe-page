@@ -5,10 +5,12 @@
 }
 
 .duvar{
+    overflow-y: auto;
+    padding-top: 20px;
     display: flex;
     justify-content: center;
-    align-items: center;
-    height: 100vh;
+    align-items: flex-start;
+    min-height: 100vh;
     margin: 0;
     background-color: hsl(30, 54%, 90%);
 }
@@ -167,7 +169,22 @@ ul {
     color: hsl(30, 10%, 34%);
 }
 
-.deger{
+.deger1{
     margin-left: 175px;
+    color: hsl(14, 45%, 36%);
+}
+
+.deger2{
+    margin-left: 180px;
+    color: hsl(14, 45%, 36%);
+}
+
+.deger3{
+    margin-left: 176px;
+    color: hsl(14, 45%, 36%);
+}
+
+.deger4{
+    margin-left: 192px;
     color: hsl(14, 45%, 36%);
 }
