@@ -201,26 +201,21 @@ ul {
     color: hsl(14, 45%, 36%);
 }
 
-/* Mobil cihazlar için düzenlemeler */
 @media screen and (max-width: 600px) {
-    /* Kart genişliğini ekran boyutuna göre ayarla */
     .kart {
         width: 90%;
         padding: 15px;
     }
-    /* Morkart'ı merkezi ve esnek hale getir */
     .morkart {
         width: 90%;
         margin: 15px auto;
     }
-    /* Besin değerleri için margin değerlerini küçült */
     .deger1,
     .deger2,
     .deger3,
     .deger4 {
         margin-left: 10px;
     }
-    /* Başlık ve paragraf boyutlarını mobilde daha okunabilir yapmak için ayarla */
     .baslik {
         font-size: 18px;
     }
